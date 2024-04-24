@@ -1,14 +1,14 @@
-### Profile
-
-![uj_depth](https://github.com/eidus/eidus/assets/126761511/b4701539-b6b0-48a1-a739-d0710b7646a1)|![uj_semantic](https://github.com/eidus/eidus/assets/126761511/2e93eca4-a5e2-4013-ad81-8a36e0507b9c)
+### Profile Ficture
+![uj_semantic](https://github.com/eidus/eidus/assets/126761511/edc9715a-fe3e-407c-9d4a-5be7c981d0ab)|![uj_depth](https://github.com/eidus/eidus/assets/126761511/d5c000cf-1be6-485a-b73a-844ef4cdd484)
 ---|---|
 
-- :heart_eyes_cat: I'm interested in Deep Learning based Computer Vision, especially Image Segmentation and Depth Estimation.
+### Introduction
+- :heart_eyes_cat: I am interested in Data Analysis and Deep Learning-based Computer Vision, especially Image Segmentation and Depth Estimation.
 - :computer: I'm Researcher at Smart Computing Lab.
-
-
-<!--
-**eidus/eidus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- :computer: Mainly used languages ​​are ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+### Status
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eidus)](https://github.com/anuraghazra/github-readme-stats) 
+<!--**eidus/eidus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
