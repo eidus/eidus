@@ -5,7 +5,6 @@
 ### Introduction
 - :heart_eyes_cat: I am interested in Data Analysis and Deep Learning-based Computer Vision, especially Image Segmentation and Depth Estimation.
 - :computer: Mainly used languages ​​are ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-- 
 <!--### Status
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eidus)](https://github.com/anuraghazra/github-readme-stats) --> 
 
