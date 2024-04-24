@@ -1,4 +1,4 @@
-### Profile Ficture
+### Profile Picture
 ![uj_semantic](https://github.com/eidus/eidus/assets/126761511/edc9715a-fe3e-407c-9d4a-5be7c981d0ab)|![uj_depth](https://github.com/eidus/eidus/assets/126761511/d5c000cf-1be6-485a-b73a-844ef4cdd484)
 ---|---|
 
