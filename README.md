@@ -1,4 +1,11 @@
-### Hi there 👋
+### Profile
+
+![uj_depth](https://github.com/eidus/eidus/assets/126761511/b4701539-b6b0-48a1-a739-d0710b7646a1)|![uj_semantic](https://github.com/eidus/eidus/assets/126761511/2e93eca4-a5e2-4013-ad81-8a36e0507b9c)
+---|---|
+
+- :heart_eyes_cat: I'm interested in Deep Learning based Computer Vision, especially Image Segmentation and Depth Estimation.
+- :computer: I'm Researcher at Smart Computing Lab.
+
 
 <!--
 **eidus/eidus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
