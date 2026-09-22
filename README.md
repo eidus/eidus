@@ -22,12 +22,10 @@ My research focuses on intelligent agents that **reason, recommend, and act in d
 
 **Cold-Start Sequential Recommendation for Evolving League of Legends Drafts**
 
-Developed an inductive ranking framework for champion recommendation under **evolving catalogs and dynamic candidate constraints**.
+Developed an inductive ranking framework for champion recommendation under evolving catalogs and dynamic candidate constraints.
 
-* Represented champions using **LLM-derived semantic profiles** and patch-level behavioral priors
-* Incorporated strictly causal temporal evidence for meta-aware recommendation
-* Enabled recommendation of **previously unseen champions without retraining**
-* Built an end-to-end data pipeline with **110K+ training instances** from three heterogeneous sources
+* Supports **previously unseen champions** using LLM-derived semantic profiles and temporal evidence
+* Built an end-to-end pipeline with **110K+ training instances**
 
 `Recommender Systems` `Cold-Start` `Sequential Recommendation` `Game AI`
 
@@ -35,14 +33,13 @@ Developed an inductive ranking framework for champion recommendation under **evo
 
 **From Minimap Object Detection to Full Game-State Reconstruction**
 
-Worked on computer vision methods for extracting structured game states from League of Legends gameplay footage.
+Developed computer vision methods for extracting structured game states from League of Legends gameplay footage.
 
-* Developed models for **minimap champion detection and state estimation**
-* Studied **synthetic-to-real transfer** for minimap object detection
-* Extended object detection toward **full minimap state reconstruction**
+* Worked on **minimap detection, state reconstruction, and synthetic-to-real transfer**
 * Developed a **viewport tracking model** for automatic esports observing
 
 `Computer Vision` `Object Detection` `State Estimation` `Game AI`
+
 ---
 
 ## Selected Publications
@@ -68,8 +65,11 @@ Worked on computer vision methods for extracting structured game states from Lea
 ## Awards
 
 🥇 **1st Place** · Orak Game Agent Challenge 2025 — KRAFTON AI
+
 🥈 **2nd Place** · PokeAgent Challenge — Track 1: Battling
+
 🏆 **Outstanding Paper Award** · ASK 2024
+
 🏆 **Outstanding Paper Award** · CISC-W'23
 
 ---
