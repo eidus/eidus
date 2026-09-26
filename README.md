@@ -48,9 +48,9 @@ Developed computer vision methods for extracting structured game states from Lea
   **BanPickMaker: Inductive Sequential Recommendation under Evolving Catalogs and Dynamic Candidate Constraints**
   *WSDM 2027 — Under Review*
 
-* S. Karten, J. Grigsby, ..., **Yujin Kim**, et al.
+* S. Karten, J. Grigsby, ..., **Yujin Kim**, ....
   **The PokeAgent Challenge: Competitive and Long-Context Learning at Scale**
-  *NeurIPS 2026 — Under Review* · [arXiv](https://arxiv.org/abs/2603.15563)
+  *NeurIPS 2026 ED Track* · [arXiv](https://arxiv.org/abs/2603.15563)
 
 * Y. Lee, **Yujin Kim**, K.-J. Kim
   **Beyond Detection: Full Minimap State Reconstruction in MOBA Games**
