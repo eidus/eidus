@@ -5,7 +5,7 @@
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat-square\&logo=googlescholar\&logoColor=white)](https://scholar.google.com/citations?user=3KRjx9sAAAAJ&hl=en)
 [![GitHub](https://img.shields.io/badge/GitHub-eidus-181717?style=flat-square\&logo=github)](https://github.com/eidus)
 [![Email](https://img.shields.io/badge/Email-gaimuj32315%40gmail.com-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:gaimuj32315@gmail.com)
-[![Website](https://eidus.github.io/)]
+[![Website](https://img.shields.io/badge/Website-eidus.github.io-blue)](https://eidus.github.io/)
 
 I received my M.S. in Artificial Intelligence from **Gwangju Institute of Science and Technology (GIST)**, where I was a graduate researcher at the [**Cognition & Intelligence Lab (CILab)**](https://cilab.gist.ac.kr/hp/). Previously, I conducted undergraduate research at the [**AI Accelerator Computing Lab**](https://sites.google.com/site/embeddedsochallymuniv/home) at **Hallym University**.
 
